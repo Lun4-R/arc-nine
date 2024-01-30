@@ -4,19 +4,19 @@
 	"type": "Drill",
 	"size": 2,
 	"tier": 3,
-	"drillTime": 2800,
+	"drillTime": 280,
 	"itemCapacity": 20,
 	"rotateSpeed": 9.8,
 	"warmupSpeed": 0.004,
 	"liquidBoostIntensity": 2,
 	"liquidCapacity": 20,
 	"requirements": [
-        "copper/420",
-        "lead/150",
-        "graphite/175"
+        "copper/1",
+        "lead/1",
+        "graphite/1"
 	],
   "consumes": {
-    "power": 2.25,
+    "power": 1.55,
   },
 	"category": "production",
 	"research": "arc-drill-2"
