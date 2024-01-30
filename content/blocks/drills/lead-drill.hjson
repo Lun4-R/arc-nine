@@ -19,10 +19,10 @@ rotateSpeed: 2.25
 liquidBoostIntensity: 2.0
 drawRim: true
 heatColor: 87ceeb
-drillTime: 300
-tier: 6
+drillTime: 450
+tier: 2
 updateEffect: pulverizeMedium
 drillEffect: mineBig
 
 category: production
-research: copper-drill
+research: mechanical-drill
