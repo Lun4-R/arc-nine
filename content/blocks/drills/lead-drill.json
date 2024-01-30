@@ -1,0 +1,19 @@
+{
+	"name": "ARC Drill MK.I",
+	"description": "Basic drill, requires much more resources but has better mining speed compared to Mechanical Drill",
+	"type": "Drill",
+	"size": 2,
+	"tier": 2,
+	"drillTime": 425,
+	"itemCapacity": 20,
+	"rotateSpeed": 2.4,
+	"warmupSpeed": 0.004,
+	"liquidBoostIntensity": 2,
+	"liquidCapacity": 20,
+	"requirements": [
+        "copper/75",
+        "lead/25"
+	],
+	"category": "production",
+	"research": "mechanical-drill"
+}
