@@ -1,0 +1,23 @@
+{
+	"name": "ARC Drill MK.IV",
+	"description": "A improvement of all, requires much more power in order to function, but has fastest speed for 2x2 drill due to better fan design and internal cooling",
+	"type": "Drill",
+	"size": 2,
+	"tier": 3,
+	"drillTime": 230,
+	"itemCapacity": 30,
+	"rotateSpeed": 19.6,
+	"warmupSpeed": 0.008,
+	"liquidBoostIntensity": 2,
+	"liquidCapacity": 20,
+	"requirements": [
+        "copper/1",
+        "lead/1",
+        "graphite/1"
+	],
+  "consumes": {
+    "power": 1.975,
+  },
+	"category": "production",
+	"research": "arc-drill-3"
+}
