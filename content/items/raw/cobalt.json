@@ -1,0 +1,10 @@
+{
+  "hardness": 8,
+  "cost": 7,
+  "research": {
+    "parent": "aluminium",
+    "requirements": [
+      "aluminium/200"
+    ]
+  }
+}
