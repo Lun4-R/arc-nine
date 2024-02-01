@@ -1,23 +1,24 @@
 {
 	"name": "ARC Drill MK.III",
-	"description": "Very fast and more advanced drill compared to its predecessors, however it now needs power in order to operate",
+	"description": "A big brother for Pneumatic Drill, requires power though",
+	"health": 130,
 	"type": "Drill",
 	"size": 2,
-	"tier": 3,
-	"drillTime": 280,
-	"itemCapacity": 20,
-	"rotateSpeed": 9.8,
+	"tier": 2,
+	"drillTime": 260,
+	"itemCapacity": 25,
+	"rotateSpeed": 1.72,
 	"warmupSpeed": 0.004,
 	"liquidBoostIntensity": 2,
 	"liquidCapacity": 20,
 	"requirements": [
-        "copper/1",
-        "lead/1",
-        "graphite/1"
+        "copper/200",
+        "lead/95",
+		"graphite/40"
 	],
-  "consumes": {
-    "power": 1.55,
-  },
+	"requires" : {
+	"energy": 1.5
+	},
 	"category": "production",
-	"research": "arc-drill-2"
+	"research": "pneumatic-drill"
 }

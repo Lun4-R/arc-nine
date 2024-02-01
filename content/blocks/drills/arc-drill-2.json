@@ -1,18 +1,20 @@
 {
 	"name": "ARC Drill MK.II",
-	"description": "A better generation than MK.I, included with a fan and proper cool air intake, thus increased mine speed",
+	"description": "Next generation to Mark I, again much faster but need more and much complex materials",
+	"health": 145,
 	"type": "Drill",
 	"size": 2,
 	"tier": 2,
-	"drillTime": 350,
-	"itemCapacity": 20,
-	"rotateSpeed": 4.8,
+	"drillTime": 330,
+	"itemCapacity": 22,
+	"rotateSpeed": 1.44,
 	"warmupSpeed": 0.004,
 	"liquidBoostIntensity": 2,
 	"liquidCapacity": 20,
 	"requirements": [
-        "copper/150",
-        "lead/55"
+        "copper/196",
+        "lead/72",
+		"graphite/15"
 	],
 	"category": "production",
 	"research": "arc-drill-1"
