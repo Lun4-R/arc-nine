@@ -1,0 +1,12 @@
+{
+	"name": "Solid Fuel",
+	"description": "Soft material, mixed from Lithium and Flouride. Very explosive, handle with care.",
+  "cost": 7,
+  "research": {
+    "parent": "raw-lithium",
+    "requirements": [
+      "raw-lithium/4000",
+      "solid-flouride/2000"
+    ]
+  }
+}

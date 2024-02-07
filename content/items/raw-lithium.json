@@ -1,6 +1,6 @@
 {
 	"name": "Raw Lithium",
-	"description": "Very reactive and explosive. Handle with care",
+	"description": "Very reactive and explosive. Handle with care.",
   "hardness": 1,
   "cost": 7,
   "research": {
