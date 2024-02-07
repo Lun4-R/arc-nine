@@ -1,7 +1,7 @@
 {
 	"name": "Raw Cobalt",
 	"description": "Fairly durable, stronger than Steel and best ferrimetal out there. Sparkly blueish.",
-  "hardness": 8,
+  "hardness": 3,
   "cost": 7,
   "research": {
     "parent": "raw-aluminium",

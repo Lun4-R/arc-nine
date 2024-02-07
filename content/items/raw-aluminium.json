@@ -1,0 +1,12 @@
+{
+	"name": "Raw Aluminium",
+	"description": "Shiny and very light metal. Brittle as raw state but good for refining.",
+  "hardness": 2,
+  "cost": 7,
+  "research": {
+    "parent": "lead",
+    "requirements": [
+      "lead/2400"
+    ]
+  }
+}
