@@ -1,0 +1,11 @@
+{
+	"name": "Aluminium Alloy",
+	"description": "Refined Aluminium. Allows to build advanced buildings. Works best with other alloys.",
+  "cost": 7,
+  "research": {
+    "parent": "raw-aluminium",
+    "requirements": [
+      "raw-aluminium/2400"
+    ]
+  }
+}

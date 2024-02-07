@@ -1,0 +1,11 @@
+{
+	"name": "Lithium Alloy",
+	"description": "More stable version of Lithium. Mixed with Lead for better refining.",
+  "cost": 7,
+  "research": {
+    "parent": "raw-lithium",
+    "requirements": [
+      "raw-lithium/2000"
+    ]
+  }
+}

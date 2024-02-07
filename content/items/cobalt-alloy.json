@@ -1,0 +1,11 @@
+{
+	"name": "Cobalt Alloy",
+	"description": "Very solid. Definitely good for building reinforced buildings, and advanced buildings.",
+  "cost": 7,
+  "research": {
+    "parent": "raw-cobalt",
+    "requirements": [
+      "raw-aluminium/2750"
+    ]
+  }
+}
